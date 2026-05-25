@@ -4,6 +4,9 @@ Prototype de télé-opération robotique assistée en temps réel.
 
 Un robot physique est remplacé par une simulation **Pygame** (côté edge) dont le flux vidéo est transmis à un **dashboard web via WebRTC**. L'opérateur pilote le robot à distance, pendant qu'une IA embarquée analyse les obstacles et calcule le risque de collision.
 
+## 🎥 Demo
+
+[Voir la démo](https://raw.githubusercontent.com/houda884/AstroStream/master/demo.mp4)
 ---
 
 ## Structure:
