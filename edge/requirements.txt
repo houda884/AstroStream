@@ -1,0 +1,8 @@
+aiortc
+aiohttp
+websockets
+opencv-python
+numpy
+pygame
+av
+ultralytics

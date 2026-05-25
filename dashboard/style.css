@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  text-align: center;
+}
+
+.video-container {
+  position: relative;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+video, canvas {
+  width: 800px;
+  height: 600px;
+  border: 2px solid #444;
+  border-radius: 8px;
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+}
+
+pre {
+  text-align: left;
+  width: 800px;
+  margin: 20px auto;
+  background: #1e1e1e;
+  padding: 12px;
+  border-radius: 8px;
+  overflow: auto;
+}
